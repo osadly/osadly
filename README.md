@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @osadly
+- 👋 Hi, I’m Osama Wanis
 - 👀 I’m interested in mathematics, algorithms, data science, data analysis
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analysis projects, data science projects, python projects, algorithm-related projects
