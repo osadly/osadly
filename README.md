@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Osama Wanis
-- 👀 I’m interested in mathematics, algorithms, data science, data analysis
+- 👀 I’m interested in mathematics, algorithms, data science, machine learning and AI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analysis projects, data science projects, python projects, algorithm-related projects
 - 📫 How to reach me my email: osadly@gmail.com
